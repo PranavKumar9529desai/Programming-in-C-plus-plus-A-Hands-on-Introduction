@@ -19,7 +19,7 @@ Thank you for making this a collaborative hub for knowledge!
 
 ## How to Use
 
-###Navigating the Repository
+##Navigating the Repository
 
 1. **Course Organization:** Each course has its dedicated folder. Navigate to the specific course folder to find organized answers and resources.
 
@@ -29,9 +29,15 @@ Thank you for making this a collaborative hub for knowledge!
 
 
 #Certificate
+
+
+
+
+
+
+
+
 <img src="certificate.png" width=800>
 
 
 
-Best,
-Pranavkumar Desai
