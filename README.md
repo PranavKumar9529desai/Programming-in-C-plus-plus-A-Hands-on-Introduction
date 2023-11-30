@@ -1,4 +1,3 @@
-# Programming in C++: A Hands-on Introduction Specialization
 # Welcome to the Specialization Answers Repository
 
 Hey there! I'm Pranavkumar Desai, and I'm thrilled to share with you this repository that compiles answers from all four courses of the Programming Hands-On Specialization.
@@ -20,13 +19,15 @@ Thank you for making this a collaborative hub for knowledge!
 
 ## How to Use
 
-Feel free to dive in, explore, and leverage this repository for your learning journey. Whether you're a beginner or an experienced coder, there's something for everyone.
+###Navigating the Repository
 
-## Celebrating One Year
+1. **Course Organization:** Each course has its dedicated folder. Navigate to the specific course folder to find organized answers and resources.
 
-As we mark the one-year anniversary of this repository, I reflect on the positive impact it has had on the learning journeys of many. I encourage you to be a part of this collaborative spirit – explore, learn, and even contribute if you'd like.
+2. **Week-wise Structure:** Answers are further categorized based on weeks within each course folder. Dive into the corresponding week to locate specific materials for your study.
 
-Happy coding, and here's to many more years of learning and growing together!
+3. **File Naming Convention:** Answers are named intuitively, often reflecting the question or topic. Use the clear file naming convention to quickly identify and access the answers you're looking for.
+
+
 
 Best,
 Pranavkumar Desai
