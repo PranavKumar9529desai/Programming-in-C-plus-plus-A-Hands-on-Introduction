@@ -31,3 +31,7 @@ Thank you for making this a collaborative hub for knowledge!
 
 Best,
 Pranavkumar Desai
+
+
+###Certificate
+<img src="certificate.png" width=800>
