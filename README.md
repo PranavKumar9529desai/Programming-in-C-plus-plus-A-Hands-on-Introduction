@@ -39,7 +39,7 @@ Thank you for making this a collaborative hub for knowledge!
 
 
 
-<img src="certificate.png" width=800>
+<img src="./certificate.png" width=800>
 
 
 
